@@ -1,7 +1,7 @@
 #ifndef simpleIO_H
 
 #include <iostream>
-////////std::cout//
+
 /*for printing integer*/
 void println(int value){
     std::cout <<value<<std::endl;
